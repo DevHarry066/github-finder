@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div>Home</div>
+    <h1 className="text-6xl">Welcome to Github Finder</h1>
   )
 }
 
