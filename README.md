@@ -21,3 +21,4 @@ git rm .env --cached
 git commit -m "Stopped tracking .env File"
 
 
+Add Token without the qoutes and github url with collan but without adding ; after that
